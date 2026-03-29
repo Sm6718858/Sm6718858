@@ -3,7 +3,9 @@
 ## 🏆 LeetCode Achievements
 
 <p align="center">
+<a href="https://leetcode.com/u/Shivammishra_12/" target="_blank">
 <img src="https://img.shields.io/badge/LeetCode-700%2B%20Problems%20Solved-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
 </p>
 
 <p align="center">
