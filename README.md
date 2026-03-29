@@ -7,11 +7,11 @@
 </p>
 
 <p align="center">
-<img src="Screenshot 2026-03-29 113757.png" height="110"/>
-<img src="Screenshot 2026-03-29 114407.png" height="110"/>
-<img src="Screenshot 2026-03-29 114425.png" height="110"/>
-<img src="Screenshot 2026-03-29 114440.png" height="110"/>
-<img src="Screenshot 2026-03-29 114502.png" height="110"/>
+<img src="Screenshot 2026-03-29 113757.png" height="100"/>
+<img src="Screenshot 2026-03-29 114407.png" height="100"/>
+<img src="Screenshot 2026-03-29 114425.png" height="100"/>
+<img src="Screenshot 2026-03-29 114440.png" height="100"/>
+<img src="Screenshot 2026-03-29 114502.png" height="100"/>
 </p>
 
 <p align="center">
