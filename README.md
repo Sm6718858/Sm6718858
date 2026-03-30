@@ -43,8 +43,8 @@
 <img src="https://img.shields.io/badge/Email-orange?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="tel:+917307334885">
-<img src="https://img.shields.io/badge/Mobile-green?style=for-the-badge&logo=phone&logoColor=white"/>
-</a>
+<p align="center">
+📞 +91 7307334885
+</p>
 
 </p>
