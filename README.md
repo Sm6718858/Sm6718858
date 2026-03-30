@@ -1,5 +1,5 @@
 <h1 align="center"> 
-🎉<img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=40&duration=3000&pause=1000&color=FF7A00&center=true&vCenter=true&width=850&lines=Welcome+to+the+Shivam+Era;Software+Engineer;Full+Stack+Developer" /> 🎉
+<img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=40&duration=3000&pause=1000&color=FF7A00&center=true&vCenter=true&width=850&lines=Welcome+to+the+Shivam+Era;Software+Engineer;Full+Stack+Developer" />
 </h1>
 
 ---
